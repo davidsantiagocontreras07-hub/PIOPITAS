@@ -1,6 +1,6 @@
 # Piopitas
 
-Página web de restaurante hecha con Django: registro e inicio de sesión de clientes y administradores, menú conectado a base de datos, carrito que genera pedidos reales y panel de administrador.
+La página web de restaurante está hecha con Django: registro e inicio de sesión de clientes y administradores, menú conectado a base de datos, carrito que genera pedidos reales y panel de administrador.
 
 ## Cómo correrlo (dentro del dispositivo)
 
